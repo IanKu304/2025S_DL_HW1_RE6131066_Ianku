@@ -116,7 +116,6 @@ Design a network with 2–4 effective layers that achieves **≥90% of ResNet34 
 
 ```bash
 pip install -r requirements.txt
-python main.py
 ```
 
 請確保 `images/`, `train.txt`, `val.txt`, `test.txt` 放置正確，並參考 `main.py` 執行各模型訓練與測試。
